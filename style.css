@@ -20,9 +20,6 @@ h1{
     border: 5px solid #e5e5e5;
 
 }
-.products hover{
-    border: 3px #fca311;
-}
 a{
     font-size: 150%;
     text-decoration: none;
@@ -30,5 +27,11 @@ a{
 }
 a:hover{
     text-shadow:2px 2px #787879;
-    
+}
+table{
+    text-align: center;
+    padding: 40px;
+}
+p1{
+    padding:20px;
 }
